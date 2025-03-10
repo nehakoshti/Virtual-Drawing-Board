@@ -1,6 +1,6 @@
 # Virtual-Drawing-Board
 
- ## Requirments 
+ ## Requirements 
 
 `pip install mediapipe opencv-python`
 
